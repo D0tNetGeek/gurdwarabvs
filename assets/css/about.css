@@ -1,0 +1,57 @@
+.main-menu {
+
+    border-radius: 100px;
+}
+.main-header__info-list.message li{
+	    color: #ffffff;
+}
+
+.main-header__language .bootstrap-select.lang > .dropdown-toggle {
+    
+    color: #ffffff;
+   
+    }
+
+    .thm-breadcrumb.ha{
+       background-color: #f15c22;
+    }
+
+    .block-title.mad p{
+    		color: #f15c22;
+    }
+    .thm-btn.sd{
+
+
+    	background-color: #f15d23;
+    }
+
+    .thm-btn.sd:hover {
+    color: #ffffff;
+   
+}
+
+.video-card__btn.vedio{
+	background-color: #f15d23;
+}
+
+.testimonials-one .block-title.ot p {
+    color: #f15d23;
+}
+
+.testimonials-one__single span{
+
+	    color: #f15d23;
+}
+
+.page-header__bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    -webkit-filter: none !important; 
+    filter: none !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

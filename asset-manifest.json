@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/gurdwarabvs/static/css/main.e34d63b3.chunk.css",
+    "main.js": "/gurdwarabvs/static/js/main.9d6ec092.chunk.js",
+    "main.js.map": "/gurdwarabvs/static/js/main.9d6ec092.chunk.js.map",
+    "runtime-main.js": "/gurdwarabvs/static/js/runtime-main.c8eac2de.js",
+    "runtime-main.js.map": "/gurdwarabvs/static/js/runtime-main.c8eac2de.js.map",
+    "static/js/2.7a2ad9f3.chunk.js": "/gurdwarabvs/static/js/2.7a2ad9f3.chunk.js",
+    "static/js/2.7a2ad9f3.chunk.js.map": "/gurdwarabvs/static/js/2.7a2ad9f3.chunk.js.map",
+    "static/js/3.c484d7d4.chunk.js": "/gurdwarabvs/static/js/3.c484d7d4.chunk.js",
+    "static/js/3.c484d7d4.chunk.js.map": "/gurdwarabvs/static/js/3.c484d7d4.chunk.js.map",
+    "index.html": "/gurdwarabvs/index.html",
+    "static/css/main.e34d63b3.chunk.css.map": "/gurdwarabvs/static/css/main.e34d63b3.chunk.css.map",
+    "static/js/2.7a2ad9f3.chunk.js.LICENSE.txt": "/gurdwarabvs/static/js/2.7a2ad9f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8eac2de.js",
+    "static/js/2.7a2ad9f3.chunk.js",
+    "static/css/main.e34d63b3.chunk.css",
+    "static/js/main.9d6ec092.chunk.js"
+  ]
+}

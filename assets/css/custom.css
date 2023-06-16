@@ -1,0 +1,171 @@
+
+
+.btn-danger.addtocart{
+    color: #ffffff;
+    background-color: #f15d23;
+    border-color: #f15d23;
+    margin-bottom: 5px;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+.btn-danger.addtocart:hover {
+    color: #ffffff;
+    background-color: #f15d23;
+    border-color: #f15d23;
+}
+
+.event-card-image-inner span{
+    background-color: #0090e7;
+}
+
+.aion.main-header__social a {
+    color: #fff;
+}
+
+
+.welcom.main-header__top p {
+    color: #ffffff;
+}
+
+.hmnu.stricky-header{
+    background-color: #ffffff;
+}
+a.polo {
+    color: #fff;
+}
+
+a.polo:hover
+{
+    color: #fff
+}
+
+
+.werh.about-counter__image-content{
+    background-color: #f15d23;
+}
+.servic.block-title p
+{
+    color: #f15e24;
+}
+
+
+.servic.block-title h3
+{
+    color: #f15e24;
+}
+
+
+.donate.thm-btn{
+    background-color: #f15e24;
+    background-color: #f15e24;
+}
+
+.cause-card__content .donate.thm-btn:hover {
+    background-color: #f15e24;
+    color: #fff;
+}
+
+.cause-card__share.shareb {
+    background-color: #f1f1f1;
+}
+
+.cause-card__share.shareb:hover {
+    background-color: #f15e24;
+}
+
+.thm-btn.stardont{
+    background-color: #f15e24;
+    background-color: #f15e24;
+}
+.thm-btn.stardont:hover
+{
+
+    color: #fff;
+}
+
+.call-to-action-two__icon.hop{
+    background-color: #f15e24;
+}
+
+.call-to-action-two .block-title.hop p {
+    color: #f15e24;
+}
+
+.block-title.dn p{
+    color: #f15e24;
+}
+.donate-options__call.haquad p
+{
+    color: #f15e24;
+}
+.testimonials-two .block-title.ot p {
+    color: #f15d23;
+}
+.footer-widget__contact.conta li a:hover {
+    color: #f15d23;
+}
+.footer-widget__blog.blo li h3 a:hover {
+    color: #f15d23;
+}
+
+.footer-widget__blog.blo li p{
+    color: #f15d23;
+}
+.blog-card__meta.admin a i{
+    color: #f15d23;
+}
+
+
+.blog-card__meta.admin a:hover {
+    color: #f15d23;
+}
+
+
+.main-menu {
+
+    border-radius: 100px;
+}
+
+
+.main-slider p{
+    color: #fdf9f8;
+}
+
+.about-counter__count.num h3{
+    color: #f15e24;
+}
+
+.block-title.hpn p{
+
+    color: #f15e24;
+}
+.block-title.pc p{
+    color: #f15e24;
+}
+
+
+.block-title.shop p{
+    color: #f15e24;
+
+}
+
+
+.block-title.blogpot p{
+    color: #f15e24;
+}
+
+
+.blog-card:hover .blog-card__more.rm{
+    color: #f15e24;
+    background-color: #fff;
+    border-top-color: #e4e4e4;
+}
+
+.blog-card__content.conte h3 a:hover {
+    color: #f15e24;
+}
+
+/*.main-menu .main-menu__list > li.current > a, .main-menu .main-menu__list > li:hover > a, .stricky-header .main-menu__list > li.current > a, .stricky-header .main-menu__list >.home li:hover > a {
+    color: #f15e24;
+}*/

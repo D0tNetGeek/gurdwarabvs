@@ -1,17 +1,19 @@
-on: push
-name: 🚀 Deploy website on push
+name: Deploy Private GitHub repository to cPanel
+on:
+  push:
+    branches:
+      - main
 jobs:
-  web-deploy:
-    name: 🎉 Deploy
+  FTP-Deploy-Action:
+    name: FTP-Deploy-Action
     runs-on: ubuntu-latest
     steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v2
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@4.3.2
+    - uses: actions/checkout@v2.1.0
       with:
-        server: ftp://gurdwarabvs.org
-        username: gurdwarabvs
-        password: ${{ secrets.BVSCoventry!23 }}
-        port: 21
+        fetch-depth: 2
+    - name: FTP-Deploy-Action
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server: ${{ secrets.FTP_SERVER }}
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
